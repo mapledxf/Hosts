@@ -3,16 +3,16 @@
 23.62.69.145                   steamgames.com
 23.62.69.145                   steampowered.com
 23.210.138.105                 steamcommunity.com
-23.220.246.183                 cdn.steampowered.com
 23.220.246.157                 cdn.steampowered.com
+23.220.246.183                 cdn.steampowered.com
 23.210.138.105                 api.steampowered.com
-23.220.246.157                 cdn.steampowered.com
 23.220.246.183                 cdn.steampowered.com
+23.220.246.157                 cdn.steampowered.com
 23.210.138.105                 help.steampowered.com
-198.185.159.144                steampoweredmedia.com
-198.49.23.145                  steampoweredmedia.com
 198.185.159.145                steampoweredmedia.com
+198.185.159.144                steampoweredmedia.com
 198.49.23.144                  steampoweredmedia.com
+198.49.23.145                  steampoweredmedia.com
 104.114.79.146                 cdn.steamcommunity.com
 104.114.79.160                 cdn.steamcommunity.com
 104.114.79.137                 media.steampowered.com
@@ -30,10 +30,10 @@
 104.114.79.211                 store.akamai.steamstatic.com
 104.114.79.146                 steamcommunity-a.akamaihd.net
 104.114.79.160                 steamcommunity-a.akamaihd.net
-104.114.79.160                 community.akamai.steamstatic.com
 104.114.79.146                 community.akamai.steamstatic.com
+104.114.79.160                 community.akamai.steamstatic.com
 
-# Last update at 2025-09-06 20:20:08 (Beijing Time)
+# Last update at 2025-09-07 02:14:29 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
