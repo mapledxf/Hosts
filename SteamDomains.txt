@@ -10,13 +10,13 @@
 23.47.48.98                    cdn.steampowered.com
 23.35.173.252                  help.steampowered.com
 # No resolution for steampoweredmedia.com steampoweredmedia.com
-23.220.162.147                 cdn.steamcommunity.com
 23.220.162.140                 cdn.steamcommunity.com
+23.220.162.147                 cdn.steamcommunity.com
 23.220.162.151                 media.steampowered.com
 23.220.162.132                 media.steampowered.com
-23.220.151.221                 store.steampowered.com
-23.220.162.151                 cdn.akamai.steamstatic.com
+184.25.212.117                 store.steampowered.com
 23.220.162.132                 cdn.akamai.steamstatic.com
+23.220.162.151                 cdn.akamai.steamstatic.com
 23.220.162.154                 cdn.store.steampowered.com
 23.220.162.146                 cdn.store.steampowered.com
 111.2.178.148                  store.st.dl.bscstorage.net
@@ -25,12 +25,12 @@
 156.250.64.174                 media.st.dl.pinyuncloud.com
 23.220.162.146                 store.akamai.steamstatic.com
 23.220.162.154                 store.akamai.steamstatic.com
-23.220.162.140                 steamcommunity-a.akamaihd.net
 23.220.162.147                 steamcommunity-a.akamaihd.net
+23.220.162.140                 steamcommunity-a.akamaihd.net
 23.220.162.147                 community.akamai.steamstatic.com
 23.220.162.140                 community.akamai.steamstatic.com
 
-# Last update at 2025-10-07 14:18:24 (Beijing Time)
+# Last update at 2025-10-07 20:24:49 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
