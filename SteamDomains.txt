@@ -6,19 +6,19 @@
 23.215.0.136                   cdn.steampowered.com
 23.215.0.137                   cdn.steampowered.com
 23.214.233.226                 api.steampowered.com
-23.215.0.136                   cdn.steampowered.com
 23.215.0.137                   cdn.steampowered.com
+23.215.0.136                   cdn.steampowered.com
 23.214.233.226                 help.steampowered.com
 # No resolution for steampoweredmedia.com steampoweredmedia.com
 23.3.75.213                    cdn.steamcommunity.com
 23.3.75.216                    cdn.steamcommunity.com
-23.55.176.236                  media.steampowered.com
-23.55.176.239                  media.steampowered.com
+23.3.75.197                    media.steampowered.com
+23.3.75.198                    media.steampowered.com
 23.48.9.171                    store.steampowered.com
-23.3.75.198                    cdn.akamai.steamstatic.com
 23.3.75.197                    cdn.akamai.steamstatic.com
-23.55.176.241                  cdn.store.steampowered.com
+23.3.75.198                    cdn.akamai.steamstatic.com
 23.55.176.234                  cdn.store.steampowered.com
+23.55.176.241                  cdn.store.steampowered.com
 36.156.185.52                  store.st.dl.bscstorage.net
 36.156.185.51                  store.st.dl.bscstorage.net
 23.213.69.74                   storefront.steampowered.com
@@ -26,12 +26,12 @@
 156.250.64.174                 media.st.dl.pinyuncloud.com
 23.54.127.122                  store.akamai.steamstatic.com
 23.54.127.112                  store.akamai.steamstatic.com
-23.54.127.118                  steamcommunity-a.akamaihd.net
-23.54.127.104                  steamcommunity-a.akamaihd.net
+23.3.75.216                    steamcommunity-a.akamaihd.net
+23.3.75.213                    steamcommunity-a.akamaihd.net
 23.3.75.216                    community.akamai.steamstatic.com
 23.3.75.213                    community.akamai.steamstatic.com
 
-# Last update at 2026-03-29 20:35:57 (Beijing Time)
+# Last update at 2026-03-30 02:29:51 (Beijing Time)
 # Star me GitHub url: https://github.com/JohyC/Hosts
 # Hosts End 
 
